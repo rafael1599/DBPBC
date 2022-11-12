@@ -1,0 +1,638 @@
+[
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLight",
+   "duration": "37.663"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLight",
+   "duration": "44.313"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLight",
+   "duration": "47.299"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLight",
+   "duration": "47.192"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLight",
+   "duration": "49.508"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLight",
+   "duration": "56.361"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLight",
+   "duration": "55.579"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLight",
+   "duration": "52.369"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLight",
+   "duration": "59.866"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLight",
+   "duration": "44.18"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLock",
+   "duration": "48.417"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLock",
+   "duration": "57.192"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLock",
+   "duration": "44.428"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLock",
+   "duration": "48.292"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLock",
+   "duration": "83.28"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLock",
+   "duration": "76.433"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLock",
+   "duration": "79.82"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLock",
+   "duration": "71.842"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLock",
+   "duration": "78.922"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLight",
+   "duration": "73.805"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLight",
+   "duration": "84.403"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLight",
+   "duration": "96.688"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "19/10/2022",
+   "device": "SmartLight",
+   "duration": "97.715"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLight",
+   "duration": "56.608"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLight",
+   "duration": "134.19"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLight",
+   "duration": "114.65"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLight",
+   "duration": "127.29"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLight",
+   "duration": "57.74"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLock",
+   "duration": "123.58"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLock",
+   "duration": "73.898"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLock",
+   "duration": "111.76"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLock",
+   "duration": "54.426"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLock",
+   "duration": "128.44"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLock",
+   "duration": "57.042"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLock",
+   "duration": "65.293"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLock",
+   "duration": "102.075"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLock",
+   "duration": "75.078"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLock",
+   "duration": "53.691"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLock",
+   "duration": "61.823"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLight",
+   "duration": "83.893"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLight",
+   "duration": "88.081"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLight",
+   "duration": "11.677"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLight",
+   "duration": "62.886"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLight",
+   "duration": "62.086"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLight",
+   "duration": "89.981"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLight",
+   "duration": "83.496"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLight",
+   "duration": "78.958"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLight",
+   "duration": "56.871"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "20/10/2022",
+   "device": "SmartLight",
+   "duration": "60.765"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLight",
+   "duration": "59.141"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLight",
+   "duration": "67.779"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLight",
+   "duration": "57.028"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLight",
+   "duration": "63.873"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLight",
+   "duration": "64.12"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLight",
+   "duration": "59.879"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLight",
+   "duration": "80.216"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLight",
+   "duration": "62.453"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLight",
+   "duration": "66.694"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLight",
+   "duration": "58.449"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLight",
+   "duration": "52.812"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLight",
+   "duration": "60.036"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLight",
+   "duration": "91.93"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLight",
+   "duration": "63.792"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLock",
+   "duration": "149.15"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLock",
+   "duration": "63.35"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLock",
+   "duration": "77.092"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLock",
+   "duration": "117.23"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLock",
+   "duration": "73.849"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLock",
+   "duration": "91.513"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLock",
+   "duration": "61.145"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLock",
+   "duration": "62.498"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLock",
+   "duration": "65.203"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLock",
+   "duration": "144.63"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLock",
+   "duration": "75.337"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLock",
+   "duration": "110.16"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "21/10/2022",
+   "device": "SmartLock",
+   "duration": "63.124"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLock",
+   "duration": "52.32"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLock",
+   "duration": "54.015"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLight",
+   "duration": "49.815"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLight",
+   "duration": "119.31"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLight",
+   "duration": "66.635"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLight",
+   "duration": "54.46"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLight",
+   "duration": "64.447"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLight",
+   "duration": "63.085"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLock",
+   "duration": "53.118"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLock",
+   "duration": "64.011"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLock",
+   "duration": "52.517"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLock",
+   "duration": "59.954"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLock",
+   "duration": "66.111"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLock",
+   "duration": "62.393"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLock",
+   "duration": "67.03"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLight",
+   "duration": "51.517"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLight",
+   "duration": "142.42"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLight",
+   "duration": "89.056"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLight",
+   "duration": "72.882"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLight",
+   "duration": "84.223"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLight",
+   "duration": "79.399"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLock",
+   "duration": "63.825"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLock",
+   "duration": "99.337"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLock",
+   "duration": "85.118"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLock",
+   "duration": "72.39"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLock",
+   "duration": "57.289"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLock",
+   "duration": "74.851"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLock",
+   "duration": "92.37"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLight",
+   "duration": "73.707"
+ },
+ {
+   "blockchain_type": "Private",
+   "created_at": "22/10/2022",
+   "device": "SmartLight",
+   "duration": "57,762"
+ }
+]
